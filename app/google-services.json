@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "82005271763",
+    "project_id": "exapp-2bc05",
+    "storage_bucket": "exapp-2bc05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82005271763:android:82e1cef5abd85feb27e026",
+        "android_client_info": {
+          "package_name": "com.example.exapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "82005271763-0m5dlfrbu9jrfv1t2ern0anvsf1iglbf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.exapp",
+            "certificate_hash": "2e71ce837df2563e86e3fb71060f73780fa9275f"
+          }
+        },
+        {
+          "client_id": "82005271763-pgm0o12eva21vsvn6dve8u1puasdd9do.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkdAaStGslSvhHY8AZRV6Y7QifDejs-Rw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "82005271763-pgm0o12eva21vsvn6dve8u1puasdd9do.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

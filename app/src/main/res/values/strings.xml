@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ExaApp</string>
+    <string name="prefs_file">com.example.exaapp.PREFERENCE_FILE_KEY</string>
+</resources>
